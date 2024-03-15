@@ -7,9 +7,13 @@ It includes:
 - Jupyter notebooks to visualize the detection pipeline at every step
 - Example of results on our own dataset
 
+  ## Source Code
+
+The source code implemented in this study is available in the [MaskRCNN](MaskRCNN) folder.
+
 ## Data
 
-The data used in this project are remote sensing OpenSteetMap, a dummy data available in the [Data](Data) folder. 
+The data used in this study are remote sensing OpenSteetMap, a dummy data available in the [Data](Data) folder. 
 
 
 ## Results
