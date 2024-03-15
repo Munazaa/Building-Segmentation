@@ -7,7 +7,7 @@ It includes:
 - Jupyter notebooks to visualize the detection pipeline at every step
 - Example of results on our own dataset
 
-  ## Source Code
+## Source Code
 
 The source code implemented in this study is available in the [MaskRCNN](MaskRCNN) folder.
 
