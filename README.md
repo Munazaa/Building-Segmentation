@@ -1,4 +1,4 @@
-# Segmentation Tasks
+# Building Segmentation Using Remote Sensing and OpenStreetMap
 
 This repository contains the code and data for my work on Instance Segmentation.
 
