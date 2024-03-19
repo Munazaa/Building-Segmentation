@@ -3460,13 +3460,3 @@ pltGraph(range(25),model.keras_model.history.history)
 
 
 model.keras_model.save_weights(MODEL_DIR_WEIGHTS+"/ModelWeights.h5")
-
-import shutil
-shutil.copy('/content/mappingtrainingmodel20210422T0629/mask_rcnn_mappingtrainingmodel_0041.h5',MODEL_DIR_WEIGHTS+"/BestModelWeights1.h5")
-
-shutil.copy('/content/mappingtrainingmodel20210422T0629/mask_rcnn_mappingtrainingmodel_0042.h5',MODEL_DIR_WEIGHTS+"/BestModelWeights2.h5")
-
-shutil.copy('/content/mappingtrainingmodel20210422T0629/mask_rcnn_mappingtrainingmodel_0070.h5',MODEL_DIR_WEIGHTS+"/BestModelWeights3.h5")
-
-shutil.copy('/content/mappingtrainingmodel20210422T0629/mask_rcnn_mappingtrainingmodel_0071.h5',MODEL_DIR_WEIGHTS+"/BestModelWeights4.h5")
-
