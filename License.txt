@@ -1,6 +1,6 @@
-Copyright [2024] [Munazza Usmani]
-<munazzausmani07@gmail.com.com> 
+Copyright 2024 Munazza Usmani
 
+munazzausmani07@gmail.com
 Affiliations: University of Trento & Fondazione Bruno Kessler, Italy
 
 Licensed under the Apache License, Version 2.0 (the "License");
